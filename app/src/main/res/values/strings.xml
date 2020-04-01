@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChromeOSTest</string>
+    <string name="build_fingerprint">Build.Fingerprint</string>
+    <string name="supportedabis">SupportedABIs</string>
+    <string name="base_os">Base OS</string>
+    <string name="os_architecture">OS Architecture</string>
+</resources>
